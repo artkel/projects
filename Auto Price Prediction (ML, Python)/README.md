@@ -2,6 +2,9 @@
 
 ## GENERAL INFORMATION
 
+### Short overview
+Regression problem; Training data collected via Web scrapping (BeautifulSoup4); Data cleaning; Univariate & Bi-Variate EDA; Data visualization; Feature engineering (incl. Clustering); MAPE as a loss function; Best performing model – RandomForestRegressor (MAPE – 14.96%); Hyperparameters tuning 
+
 ### Introduction
 
 This is the final project after the sixth unit of the Data Science PRO course on the SkillFactory educational online platform. The project is also a part of the [Kaggle competition](https://www.kaggle.com/c/sf-dst-car-price-prediction/overview).

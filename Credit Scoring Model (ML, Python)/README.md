@@ -2,6 +2,10 @@
 
 ## GENERAL INFORMATION
 
+### Short overview
+
+Binary classification problem; Structured data collected from Kaggle (unbalanced classes); Data cleaning; EDA; Data visualization; Feature engineering & selection; Logistic regression with l2-regularization; ROC AUC – 73%; Confusion matrix analysis; Decision threshold adjustment
+
 ### Introduction
 
 As part of this project, I built a credit scoring model based on a binary probabilistic classifier.

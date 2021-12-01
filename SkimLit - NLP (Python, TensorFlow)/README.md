@@ -1,3 +1,5 @@
+# SkimLit Project - NLP Multiclass Classification
+
 ### General Information
 
 In this project, I'm going to be replicating the deep learning model behind the 2017 paper [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/pdf/1710.06071.pdf).
